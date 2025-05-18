@@ -1,4 +1,5 @@
 # 🔌 Cisco Packet Tracer Lab – Day 01: Network Diagram & Firewall Basics
+![image](https://github.com/user-attachments/assets/0b83e0ef-9320-4602-821e-bd1bbfc518c1)
 
 ## 📘 Overview
 
